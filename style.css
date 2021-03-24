@@ -47,5 +47,11 @@ p {
     justify-content: center;
     width: 400px;
     height: 50px;
+    max-height: 50px;
     margin: 10px;
+}
+
+button {
+    background-color: lightgrey;
+    border-radius: 10px;
 }
